@@ -3,6 +3,10 @@
 
 Customized PHP image with all the required extensions.
 
+## Status
+
+![CI](https://github.com/housfy/php-7.3-bitbucket-pipelines/workflows/CI/badge.svg)
+
 ## Test and build
 
 ```
